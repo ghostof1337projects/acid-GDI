@@ -1,0 +1,13 @@
+﻿  main.cpp
+  screen.cpp
+  pixel_buffer.cpp
+  gdi_shaders.cpp
+  effects.cpp
+E:\Projects\Acid\acid\effects.cpp(696,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  audio.cpp
+  Generating code
+  0 of 129 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  acid.vcxproj -> E:\Projects\Acid\acid\x64\Release\acid.exe
